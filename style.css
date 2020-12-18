@@ -1,12 +1,12 @@
 body {
     margin: 0;
-    padding-top: 600px;
+    padding-top: 800px;
     text-align: center;
 }
 
 .profile {
     width: 175px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     border-radius: 50%;
 }
 
